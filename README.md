@@ -1,4 +1,3 @@
-sea-b26-foundations
-===================
+# Welcome to Foundations of CS & Web Development Bootcamp!
 
-Code repository for Foundations of CS &amp; Web Development Bootcamp
+This simple repo will hold some basic class information.
