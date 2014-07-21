@@ -12,4 +12,4 @@ Here is a picture of me:
 
 ####About Me
 
-I have been self-teaching myself ruby on rails for almost a year and I hope to continue to learn more of it with Codefellows. At the moment I am not particularly good with JavaScript, but hopefully the Bootcamp will improve me in that area. I'm originally from Reno, Nevada and I enjoy meeting people of different cultures. In the Summer I like to go to the lake and wakeboard even though I am terrible at it. 
+I have been self-teaching myself ruby on rails for almost a year and I hope to continue to learn more of it with Codefellows. At the moment I am not particularly good with JavaScript, but hopefully the Bootcamp will improve me in that area. I'm originally from Reno, Nevada and I enjoy meeting people of different cultures. In the Summer I like to go to the lake and wakeboard even though I am terrible at it.
