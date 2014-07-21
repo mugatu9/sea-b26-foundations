@@ -1,6 +1,6 @@
 #Philip Nguyen
 
-GitHub: [ffmegman](http://github.com/ffmegaman)
+GitHub: [ffmegaman](http://github.com/ffmegaman)
 
 Twitter: [philipqnguyen](http://twitter.com/philipqnguyen)
 
