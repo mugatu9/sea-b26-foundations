@@ -8,7 +8,7 @@ linkedin: [jacob-shafer](https://www.linkedin.com/pub/jacob-shafer/39/115/648)
 
 Here is a picture of me:
 
-![Philip Q Nguyen](https://media.licdn.com/media/p/4/000/175/3d2/3c28c6e.jpg)
+![Jacob Shafer](https://media.licdn.com/media/p/4/000/175/3d2/3c28c6e.jpg)
 
 ####About Me
 
