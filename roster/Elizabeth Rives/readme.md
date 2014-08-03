@@ -16,7 +16,5 @@ Elizabeth Rives
 About Me
 ---------
 
-### A Bit of Background 
-
-I'm originally from Seattle and last year, after graduate school I returned to Seattle to work on projects for eSage Group, a systems integration and analytics consultancy. Before graduate school I worked as a product manager for *Scientific Explorer and *Elmer's Products*, developing children's educational activity kits. I learned Python through Code Fellows and am excited to pick up JavaScript.   
+I'm originally from Seattle and last year, after graduate school I returned to Seattle to work on projects for eSage Group, a systems integration and analytics consultancy. Before graduate school I worked as a product manager for Scientific Explorer and Elmer's Products, developing children's educational activity kits. I learned Python through Code Fellows and am excited to pick up JavaScript.   
 
