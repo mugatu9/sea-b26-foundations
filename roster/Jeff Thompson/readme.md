@@ -1,4 +1,4 @@
-# Monica Davidson
+# Jeff Thompson
 _Code Fellows Student_
 
 GitHub: [jeffdavidthompson](https://github.com/jeffdavidthompson)
