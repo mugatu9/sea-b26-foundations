@@ -1,9 +1,9 @@
 #Lily George
 
-* Github: ![cuppajiu](https://github.com/cuppajiu)
-* Twitter: ![lilymatcha](https://twitter.com/lilymatcha)
-* Instagram: ![lilymatcha](http://instagram.com/lilymatcha)
-* Linkedin: ![lilygeorge](https://www.linkedin.com/in/lilygeorge)
+* Github: [cuppajiu](https://github.com/cuppajiu)
+* Twitter: [lilymatcha](https://twitter.com/lilymatcha)
+* Instagram: [lilymatcha](http://instagram.com/lilymatcha)
+* Linkedin: [lilygeorge](https://www.linkedin.com/in/lilygeorge)
 
 Here is what I look like:
 
