@@ -11,4 +11,4 @@ I am a recent graduate of Western Washington University in Bellingham, Wash. I j
 
 Me:
 
-[Meeeee](https://media.licdn.com/media/p/1/005/00c/1b0/00b6d87.jpg)
+https://media.licdn.com/media/p/1/005/00c/1b0/00b6d87.jpg
