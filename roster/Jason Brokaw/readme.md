@@ -9,6 +9,6 @@ LinkedIn: [Jason Brokaw](https://www.linkedin.com/pub/jason-brokaw/37/1a5/780)
 
 I took a selfie one time:
 
-![On Mt. Bandera](http://googledrive.com/jbrokaw/Public/IMAG0459.jpg)
+![On Mt. Bandera](IMAG0459.jpg)
 
 See you in class. 
